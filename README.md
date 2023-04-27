@@ -1,8 +1,8 @@
 ### Olá! 👋
 
 
-- 🔭 Em busca de uma primeira oportunidade para atuar na área de T.I 
-- 🌱 Estudando Desenvolvimento Web Completo
+- 🔭 Aberto novas oportunidades para atual como desenvolvedor fullstack
+- 🌱 Bacharelado em Ciencia da Computação (2/8)
 - 📫 Contate-me pelo email: henrique.ardina@gmail.com
 
 <div align="center">
