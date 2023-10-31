@@ -1,8 +1,7 @@
 ### Olá! 👋
 
 
-- 🔭 Aberto novas oportunidades para atual como desenvolvedor fullstack
-- 🌱 Bacharelado em Ciencia da Computação (2/8)
+- 🌱 Bacharelado em Ciencia da Computação (3/8)
 - 📫 Contate-me pelo email: henrique.ardina@gmail.com
 
 <div align="center">
