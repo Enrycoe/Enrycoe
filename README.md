@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 
-- 🌱 Bacharelado em Ciencia da Computação (3/8)
+- 🌱 Bacharelado em Ciencia da Computação (5/8)
 - 📫 Contate-me pelo email: henrique.ardina@gmail.com
 
 <div align="center">
